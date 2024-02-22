@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "642023995036",
+    "firebase_url": "https://mobile-prog-17db9-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mobile-prog-17db9",
+    "storage_bucket": "mobile-prog-17db9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642023995036:android:7f1d73807f054372da5f59",
+        "android_client_info": {
+          "package_name": "com.kerraMobileProgramming.demo0"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOqDR7RoOiUyed8TW-mPtd-3EBvQozsLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

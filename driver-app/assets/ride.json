@@ -1,0 +1,13 @@
+{
+    "name": "Driver 2",
+    "from": "ASU Gate 3",
+    "to": "Shorouk",
+    "Time":"5:30 pm",
+    "price":"50"
+  ,"Date":"06-10-2023"
+,"status":"New",
+"state":"Driver is on his way\n will arive in 3 minutes",
+"paymentMethod":"Cash",
+"ArriveBy":"6:30 pm"
+
+}
